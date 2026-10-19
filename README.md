@@ -1,15 +1,11 @@
 # VR 課程作業 3 - 幸運輪盤
 
-## 👤 個人資訊
-* **學號**：414262466
-* **姓名**：顏楚鈞 (YCJ)
-
 ---
 
 ## 🔗 相關連結與截圖
 
 ### 1. 專案截圖
-![專案畫面](https://youtube.com/shorts/OEY7X-R8A-w?si=_x0VHnJibzrNV08o
+![專案畫面](https://github.com/z9487xd/1151VR-HW3-414262466-YCJ
 /image.png)
 
 
