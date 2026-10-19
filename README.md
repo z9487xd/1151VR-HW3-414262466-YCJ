@@ -5,8 +5,7 @@
 ## 🔗 相關連結與截圖
 
 ### 1. 專案截圖
-![專案畫面](https://github.com/z9487xd/1151VR-HW3-414262466-YCJ
-/image.png)
+![專案畫面](https://github.com/z9487xd/1151VR-HW3-414262466-YCJ/blob/main/image.png)
 
 
 ### 2. GitHub 連結
